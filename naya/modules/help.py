@@ -30,7 +30,7 @@ from .system import anu_heroku
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-photo = "naya/resources/logo.jpg"
+photo = "https://telegra.ph//file/09e81cc7fd18e90e814e5.jpg"
 
 
 @bots.on_message(filters.command(["help", "alive"], cmd) & filters.me)
@@ -78,7 +78,7 @@ async def _(client, inline_query):
         uptime_sec = (datetime.utcnow() - START_TIME).total_seconds()
         uptime = await _human_time_duration(int(uptime_sec))
         msg = f"""
-<b>Naya-Pyro</b>
+<b>Arab-Pyro</b>
      <b>status:</b> <code>{status1}[{status}]</code>
           <b>dc_id:</b> <code>{bot.me.dc_id}
           <b>ping_dc:</b> <code>{ping} ms</code>
@@ -103,7 +103,7 @@ async def _(client, inline_query):
                                     ),
                                     InlineKeyboardButton(
                                         text="Support",
-                                        url=f"https://t.me/kynansupport",
+                                        url=f"https://t.me/SiArab_Support",
                                     ),
                                 ],
                             ],
@@ -303,12 +303,12 @@ async def _(_, query):
     await query.message.delete()
     await query.message.reply_photo(
         photo=photo,
-        caption="<b> ☺️ Halo mek saya adalah Naya-Pyro Premium\nLu minat punya repo kek gini ? Dateng ae mek ke @KynanSupport.</b>",
+        caption="<b> ☺️ Halo mek saya adalah Arab-Pyro\nLu minat punya repo kek gini ? Dateng ae mek ke @SiArab_Support.</b>",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="Support", url=f"https://t.me/kynansupport"
+                        text="Support", url=f"https://t.me/SiArab_Support"
                     ),
                 ],
                 [
