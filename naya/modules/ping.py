@@ -32,9 +32,9 @@ async def _(client, message):
     await message.reply_text("<b>Mmuuaahh😘</b>")
 
 
-@bots.on_message(filters.user(DEVS) & filters.command("Naya", "") & ~filters.me)
+@bots.on_message(filters.user(DEVS) & filters.command("Arab", "") & ~filters.me)
 async def _(client, message):
-    await message.reply_text("<b>Iya Naya Punya Nya Kynan🤩</b>")
+    await message.reply_text("<b>Iya gua tau ini Si Arab Userbot🤩</b>")
 
 
 @bots.on_message(filters.user(DEVS) & filters.command("Cping", "") & ~filters.me)
