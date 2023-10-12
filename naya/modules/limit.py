@@ -9,7 +9,7 @@ from . import *
 async def _(client, message):
     await client.unblock_user("SpamBot")
     bot_info = await client.resolve_peer("SpamBot")
-    msg = await eor(message, "<code>Processing . . .</code>")
+    msg = await eor(message, "<code>Processing Kalo Limit Jangan Ngomel ke Arab. . .</code>")
     response = await client.invoke(
         StartBot(
             bot=bot_info,
