@@ -126,7 +126,7 @@ async def reply_pm(client, message):
             await set.allow_user(chat_id)
             await client.send_message(
                 chat_id,
-                f"<b>Menerima Pesan!!!</b>\n{biji} <b>Terdeteksi Developer Naya-Pyro.</b>",
+                f"<b>Menerima Pesan!!!</b>\n{biji} <b>Terdeteksi Developer Arab-Pyro.</b>",
                 parse_mode=enums.ParseMode.HTML,
             )
         except:
