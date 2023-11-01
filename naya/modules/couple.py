@@ -85,8 +85,8 @@ __Pasangan baru dipilih {tomorrow}__"""
 
 __MODULE__ = "couple"
 __HELP__ = f"""
-✘ Bantuan Untuk Couple
+❏ Bantuan Untuk Couple
 
-๏ Perintah: <code>{cmd}couple</code>
-◉ Penjelasan: Melihat pasangan dalam grup.
+⤬ Perintah: <code>{cmd}couple</code>
+⎚ Penjelasan: Melihat pasangan dalam grup.
 """
