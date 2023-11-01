@@ -51,27 +51,27 @@ async def setpmmsg(client, message):
 
 __MODULE__ = "antipm"
 __HELP__ = f"""
-✘ Bantuan Untuk AntiPM
+❏ Bantuan Untuk AntiPM
 
-๏ Perintah: <code>{cmd}antipm</code> [on atau off]
-◉ Penjelasan: Untuk menghidupkan atau mematikan antipm
+⤬ Perintah: <code>{cmd}antipm</code> [on atau off]
+⎚ Penjelasan: Untuk menghidupkan atau mematikan antipm
 
-๏ Perintah: <code>{cmd}setmsg</code> [balas atau berikan pesan]
-◉ Penjelasan: Untuk mengatur pesan antipm.
+⤬ Perintah: <code>{cmd}setmsg</code> [balas atau berikan pesan]
+⎚ Penjelasan: Untuk mengatur pesan antipm.
 
-๏ Perintah: <code>{cmd}setblock</code> [balas atau berikan pesan]
-◉ Penjelasan: Untuk mengatur pesan blokir.
+⤬ Perintah: <code>{cmd}setblock</code> [balas atau berikan pesan]
+⎚ Penjelasan: Untuk mengatur pesan blokir.
 
-๏ Perintah: <code>{cmd}setlimit</code> [angka]
-◉ Penjelasan: Untuk mengatur peringatan pesan blokir.
+⤬ Perintah: <code>{cmd}setlimit</code> [angka]
+⎚ Penjelasan: Untuk mengatur peringatan pesan blokir.
 
-๏ Perintah: <code>{cmd}ok</code>
-◉ Penjelasan: Untuk menyetujui pesan.
+⤬ Perintah: <code>{cmd}ok</code>
+⎚ Penjelasan: Untuk menyetujui pesan.
 
-๏ Perintah: <code>{cmd}no</code>
-◉ Penjelasan: Untuk menolak pesan.
+⤬ Perintah: <code>{cmd}no</code>
+⎚ Penjelasan: Untuk menolak pesan.
 
-◉ Notes: Untuk mengatur ke default ketik
+⎚ Notes: Untuk mengatur ke default ketik
 <code>{cmd}setmsg default</code>
 <code>{cmd}setblock default</code>
 <code>{cmd}setlimit default</code>
