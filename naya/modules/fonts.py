@@ -13,15 +13,15 @@ from . import *
 
 __MODULE__ = "fonts"
 __HELP__ = f"""
-✘ Bantuan Untuk Fonts
+❏ Bantuan Untuk Fonts
 
-๏ Perintah: <code>{cmd}font</code> [nama font] [balas ke pesan]
-◉ Penjelasan: Untuk membuat kata dengan font.
+⤬ Perintah: <code>{cmd}font</code> [nama font] [balas ke pesan]
+⎚ Penjelasan: Untuk membuat kata dengan font.
            
-๏ Perintah: <code>{cmd}lf</code>
-◉ Penjelasan: Untuk melihat daftar fonts.
+⤬ Perintah: <code>{cmd}lf</code>
+⎚ Penjelasan: Untuk melihat daftar fonts.
 
-◉ Notes: Gunakan format <code>{cmd}font</code> [angka] [balas pesan].
+⎚ Notes: Gunakan format <code>{cmd}font</code> [angka] [balas pesan].
 """
 
 arguments = [
