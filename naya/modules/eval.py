@@ -10,16 +10,16 @@ from . import *
 __MODULE__ = "devs"
 
 __HELP__ = f"""
-✘ Bantuan Untuk Devs
+❏ Bantuan Untuk Devs
 
-๏ Perintah: <code>{cmd}eval</code>
-◉ Penjelasan: You know bruh.
+⤬ Perintah: <code>{cmd}eval</code>
+⎚ Penjelasan: You know bruh.
 
-๏ Perintah: <code>{cmd}trash</code>
-◉ Penjelasan: You know bruh.
+⤬ Perintah: <code>{cmd}trash</code>
+⎚ Penjelasan: You know bruh.
 
-๏ Perintah: <code>{cmd}sh</code>
-◉ Penjelasan: You know bruh.
+⤬ Perintah: <code>{cmd}sh</code>
+⎚ Penjelasan: You know bruh.
 """
 
 
