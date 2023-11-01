@@ -52,8 +52,8 @@ async def carbon_func(client, message):
 
 __MODULE__ = "carbon"
 __HELP__ = f"""
-✘ Bantuan Untuk Carbon
+❏ Bantuan Untuk Carbon
 
-๏ Perintah: <code>{cmd}carbon</code> [balas pesan]
-◉ Penjelasan: Untuk membuat teks menjadi carbonara.
+⤬ Perintah: <code>{cmd}carbon</code> [balas pesan]
+⎚ Penjelasan: Untuk membuat teks menjadi carbonara.
 """
