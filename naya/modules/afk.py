@@ -13,10 +13,10 @@ from . import *
 
 __MODULE__ = "afk"
 __HELP__ = f"""
-✘ Bantuan Untuk Afk
+❏ Bantuan Untuk Afk
 
-๏ Perintah: <code>{cmd[0]}akf</code> [alasan]
-◉ Penjelasan: Untuk mengaktifkan mode afk.
+⤬ Perintah: <code>{cmd[0]}akf</code> [alasan]
+⎚ Penjelasan: Untuk mengaktifkan mode afk.
 """
 
 afk_sanity_check: dict = {}
