@@ -71,11 +71,11 @@ async def generate_sketch(c: Client, m: Message):
 
 __MODULE__ = "image"
 __HELP__ = f"""
-✘ Bantuan Untuk Image
+❏ Bantuan Untuk Image
 
-๏ Perintah: <code>{cmd}pcil or sketch</code>
-◉ Penjelasan: Membuat gambar hitam putih.
+⤬ Perintah: <code>{cmd}pcil or sketch</code>
+⎚ Penjelasan: Membuat gambar hitam putih.
 
-๏ Perintah: <code>{cmd}face</code>
-◉ Penjelasan: Mendeteksi wajah pada gambar. 
+⤬ Perintah: <code>{cmd}face</code>
+⎚ Penjelasan: Mendeteksi wajah pada gambar. 
 """
