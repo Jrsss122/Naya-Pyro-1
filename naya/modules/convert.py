@@ -10,16 +10,16 @@ from . import *
 
 __MODULE__ = "convert"
 __HELP__ = f"""
-✘ Bantuan Untuk Convert
+❏ Bantuan Untuk Convert
 
-๏ Perintah: <code>{cmd}toaudio</code> [reply to video]
-◉ Penjelasan: Untuk merubah video menjadi audio mp3.
+⤬ Perintah: <code>{cmd}toaudio</code> [reply to video]
+⎚ Penjelasan: Untuk merubah video menjadi audio mp3.
            
-๏ Perintah: <code>{cmd}toanime</code> [reply to photo]
-◉ Penjelasan: Untuk merubah foto menjadi anime.
+⤬ Perintah: <code>{cmd}toanime</code> [reply to photo]
+⎚ Penjelasan: Untuk merubah foto menjadi anime.
 
-๏ Perintah: <code>{cmd}toimg</code> [balas stikers]
-◉ Penjelasan: Untuk membuat nya menjadi foto.
+⤬ Perintah: <code>{cmd}toimg</code> [balas stikers]
+⎚ Penjelasan: Untuk membuat nya menjadi foto.
 """
 
 
