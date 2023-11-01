@@ -160,11 +160,11 @@ async def whois_domain_target(client, message):
 
 __MODULE__ = "ipsearch"
 __HELP__ = f"""
-✘ Bantuan Untuk IP Search
+❏ Bantuan Untuk IP Search
 
-๏ Perintah: <code>{cmd}ip</code> [ip host]
-◉ Penjelasan: Untuk mencari lokasi ip addres.
+⤬ Perintah: <code>{cmd}ip</code> [ip host]
+⎚ Penjelasan: Untuk mencari lokasi ip addres.
 
-๏ Perintah: <code>{cmd}ipd</code> [ip domain]
-◉ Penjelasan: Untuk mencari lokasi ip domain.
+⤬ Perintah: <code>{cmd}ipd</code> [ip domain]
+⎚ Penjelasan: Untuk mencari lokasi ip domain.
 """
