@@ -22,40 +22,40 @@ DEFAULTUSER = "Nay"
 
 __MODULE__ = "animasi"
 __HELP__ = f"""
-✘ Bantuan Untuk Animasi
+❏ Bantuan Untuk Animasi
 
-๏ Perintah:  <code>{cmd}dino or babi</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}dino or babi</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah:  <code>{cmd}hack or hug</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}hack or hug</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah: <code>{cmd}santet or gabut</code>
-◉ Penjelasan: Coba sendiri.
+⤬ Perintah: <code>{cmd}santet or gabut</code>
+⎚ Penjelasan: Coba sendiri.
 
-๏ Perintah:  <code>{cmd}bomb or brain</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}bomb or brain</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah: <code>{cmd}sayang or kontol</code>
-◉ Penjelasan: Coba sendiri.
+⤬ Perintah: <code>{cmd}sayang or kontol</code>
+⎚ Penjelasan: Coba sendiri.
 
-๏ Perintah:  <code>{cmd}penis or hmm</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}penis or hmm</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah:  <code>{cmd}tembak or bundir</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}tembak or bundir</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah: <code>{cmd} helikopter or y</code>
-◉ Penjelasan: Coba sendiri.
+⤬ Perintah: <code>{cmd} helikopter or y</code>
+⎚ Penjelasan: Coba sendiri.
 
-๏ Perintah:  <code>{cmd}love or awk</code>
-◉ Penjelasan:  Coba sendiri.
+⤬ Perintah:  <code>{cmd}love or awk</code>
+⎚ Penjelasan:  Coba sendiri.
 
-๏ Perintah: <code>{cmd}nah or ajg</code>
-◉ Penjelasan: Coba sendiri.
+⤬ Perintah: <code>{cmd}nah or ajg</code>
+⎚ Penjelasan: Coba sendiri.
 
-๏ Perintah: <code>{cmd}loveyou or love</code>
-◉ Penjelasan: Coba sendiri.
+⤬ Perintah: <code>{cmd}loveyou or love</code>
+⎚ Penjelasan: Coba sendiri.
 """
 
 
