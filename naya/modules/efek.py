@@ -11,10 +11,10 @@ from . import *
 
 __MODULE__ = "efek"
 __HELP__ = f"""
-✘ Bantuan Untuk Efek
+❏ Bantuan Untuk Efek
 
-๏ Perintah: <code>{cmd}efek</code> [efek_code - reply to voice note]
-◉ Penjelasan: Untuk mengubah suara voice note.
+⤬ Perintah: <code>{cmd}efek</code> [efek_code - reply to voice note]
+⎚ Penjelasan: Untuk mengubah suara voice note.
 
 <b>efek_code:</b>  <code>bengek</code> <code>robot</code> <code>jedug</code> <code>fast</code> <code>echo</code>
 """
