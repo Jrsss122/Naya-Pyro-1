@@ -24,7 +24,7 @@ MSG_ON = """
 
 async def main():
     await app.start()
-    LOGGER("Startup").info("Memulai Arab-Pyro Premium..")
+    LOGGER("Startup").info("Memulai Arab-Pyro..")
     for bot in botlist:
         try:
             await bot.start()
