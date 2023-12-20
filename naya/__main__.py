@@ -11,12 +11,12 @@ from uvloop import install
 from naya import *
 
 MSG_ON = """
-**Arab Pyro Actived ✅**
+**Jarz Pyro Actived ✅**
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 ◉ **Versi** : `{}`
 ◉ **Phython** : `{}`
 ◉ **Pyrogram** : `{}`
-◉ **Arablibs** : `{}`
+◉ **Jarzlibs** : `{}`
 **Ketik** `{}alive` **untuk Mengecheck Bot**
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 """
@@ -24,7 +24,7 @@ MSG_ON = """
 
 async def main():
     await app.start()
-    LOGGER("Startup").info("Memulai Arab-Pyro..")
+    LOGGER("Startup").info("Memulai Jarz-Pyro..")
     for bot in botlist:
         try:
             await bot.start()
